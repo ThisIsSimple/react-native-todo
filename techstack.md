@@ -46,7 +46,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ThisIsSimple/react-native-todo](https://github.com/ThisIsSimple/react-native-todo)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|20<br/>Tools used|11/30/23 <br/>Report generated|
+|20<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
